@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\gomim\OneDrive\Desktop\Gomolemo M Motlhamme Dev Portfolio\Java\Calculator\dist\Calculator.jar</jar>
+  <outfile>C:\Users\gomim\OneDrive\Desktop\Gomolemo M Motlhamme Dev Portfolio\Java\Calculator\dist\JavaCal.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <singleInstance>
+    <mutexName>JavaCal</mutexName>
+    <windowTitle>JavaCal</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>C:\Program Files\Java\jre</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
